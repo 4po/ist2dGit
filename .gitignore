@@ -1,0 +1,57 @@
+# Fichiers compilés par octet / optimisés / DLL
+__pycache__/
+*.py[cod]
+
+# Extensions C
+*.so
+
+# Distribution / emballage
+.python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Habituellement ces fichiers sont écrits par un script python à partir d'un modèle
+# avant que PyInstaller ne construise l'exe, afin d'y injecter des informations de date ou autres.
+*.manifest
+*.spec
+
+# Journaux de l'installateur
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Tests unitaires / rapports de couverture
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+couverture.xml
+*,cover
+
+# Traductions
+*.mo
+*.pot
+
+# trucs :
+*.log
+
+# Documentation sur Sphinx
+docs/_build/
+
+# PyBuilder
+target/
