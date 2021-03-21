@@ -1,0 +1,1 @@
+http://username:passeword@hostname/username/repo.git
