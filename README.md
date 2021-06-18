@@ -17,15 +17,6 @@ Script Python qui commite et pousse les changements de manière agressive en uti
   * Git l'utilisera toujours comme d'habitude, mais ce script tentera d'ajouter `add -A` lorsque les fichiers ignorés sont modifiés (bien que rien ne soit ajouté ou validé).
   * Ceci n'est un problème que si vous avez des fichiers ignorés rapidement modifiés, ce qui provoque un spam de `add -A'. Dans ce cas, essayez d'ajouter l'ignore à `ignore_patterns` dans le script.
 
-<p align="center">
-         <a href="https://discord.gg/apo">
-         <img src="https://git-fork.com/images/image1Win.jpg"> 
-         </a>
-
-## Pourquoi
- * J'utilise ceci pour sauvegarder et pousser automatiquement mon Zim-Wiki sur mon serveur Git.
- * Aussi utile pour récupérer du contenu non-commissionné supprimé impulsivement.
-
 ### Usage
 ### Avertissements
  * Le script ne pousse que sa propre branche.
