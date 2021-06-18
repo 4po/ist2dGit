@@ -53,3 +53,4 @@ N'hésitez pas à faire des pull-request, fork, issue ou à me dire où mon code
  * Pourquoi pas de GitPython ?
   * J'ai décidé que ce serait un script super simple, je pensais qu'une autre bibliothèque pourrait compliquer les choses et cacher des détails simples de mise en œuvre.
 
+Credit :
